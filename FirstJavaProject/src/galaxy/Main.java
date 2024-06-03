@@ -17,5 +17,8 @@ public class Main {
 		wrapperClasses.AutoboxingUnboxing();
 		
 		Operators operators = new Operators();
+
+		Tarea01 tarea01 = new Tarea01();
+		tarea01.saluteJava();
 	}
 }
